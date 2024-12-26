@@ -1,0 +1,8 @@
+uvicorn
+pydantic
+python-jose
+jwt
+python-dotenv
+python-multipart
+pyjwt
+python-jwt
